@@ -112,7 +112,7 @@ body {
   /*add display:flex and set justify-content to space-between*/
   font-weight: 700;
   display: flex;
-  justify-content:;
+  justify-content: space-between;
 
 }
 
